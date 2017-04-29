@@ -1,7 +1,7 @@
 # gophersay
 
 ```
-$ go get github.com/adamryman/gophersay
+$ go get github.com/dansackett/gophersay
 $ gophersay
  ------------------------
  Concurrency is not parallelism
@@ -21,7 +21,7 @@ $ gophersay
    |                           |
 ```
 
-`gophersay` is `cowsay` with Go Proverbs
+`gophersay` is `cowsay` with the Golang gopher saying Ernest Hemingway quotes...
 
 Included is `gophersay.sh` which is the bash equivalent of this go program as a bash script.
 
