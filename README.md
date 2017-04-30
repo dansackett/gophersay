@@ -27,6 +27,8 @@ Included is `gophersay.sh` which is the bash equivalent of this go program as a 
 
 I recommend you add this to the end of your `.bash_profile`. \ʕ◔ϖ◔ʔ/
 
+Props to [Adam Ryman](https://github.com/adamryman) for the heavy lifting here (I just changed some quotes).
+
 ## Uses
 
 ### Command line args
@@ -92,7 +94,5 @@ $ tail main.go | gophersay
 $ go generate
 ```
 ## Credits
-
-Go Proverbs http://go-proverbs.github.io/
 
 Ascii Art  https://gist.github.com/belbomemo/b5e7dad10fa567a5fe8a
